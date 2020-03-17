@@ -8,14 +8,15 @@
 ## 目录
 - [简介](#简介)
 - [运行环境](#运行环境)
-- [使用教程](#使用教程)
+- [使用方法](#使用方法)
 - [Todo](#todo)
 - [Change log](#change-log)
 - [交流反馈](#交流反馈)
 <!-- /TOC -->
 
 ## 简介
-使用arm-none-eabi-gcc在linux上交叉编译stm32f10x程序的项目模板
+使用arm-none-eabi-gcc在linux上交叉编译stm32f10x程序的项目模板  
+在Ubuntu19.10上编译通过
 
 ## 运行环境
 GNU/Linux, arm-none-eabi-gcc 7.3.1
