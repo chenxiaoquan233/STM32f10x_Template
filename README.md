@@ -22,7 +22,7 @@
 GNU/Linux, arm-none-eabi-gcc 7.3.1
 
 ## 使用方法
-在USER文件夹下添加代码,填写main.c的main函数和init函数  
+在USER文件夹下添加代码,填写main.c的main函数和init函数,然后通过makefile编译  
 具体操作可参考个人博客:[Ubuntu编译STM32程序](https://xqchen.site/%e7%a1%ac%e4%bb%b6/ubuntu%e7%bc%96%e8%af%91stm32%e7%a8%8b%e5%ba%8f/)
 
 ## Todo
